@@ -107,14 +107,18 @@ The tag adds a horizontal line, often used to separate content sections.
 
 The tag displays text exactly as it’s written in the code including spaces and line breaks. It’s useful for code samples or formatted text.
 
-``` <pre>
+``` 
+<pre>
 This text
     keeps its spacing.
-</pre>```
+</pre>
+```
 
 
 ## STEP 16: comments
 
 Comments in HTML are ignored by the browser. They’re used to leave notes for yourself or other developers.
 
-```<!-- This is a comment -->```
+```
+<!-- This is a comment -->
+```
