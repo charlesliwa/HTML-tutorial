@@ -79,7 +79,7 @@ The <hr> tag adds a horizontal line, often used to separate content sections.
 
 ### STEP 15: pre
 
-The <pre> tag displays text exactly as it’s written in the code including spaces and line breaks. It’s useful for code samples or formatted text.
+The tag displays text exactly as it’s written in the code including spaces and line breaks. It’s useful for code samples or formatted text.
 
 ``` 
 <pre>
