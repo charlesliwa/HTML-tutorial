@@ -113,3 +113,10 @@ This text
     keeps its spacing.
 </pre>
 ```
+
+
+## STEP 16: comments
+
+Comments in HTML are ignored by the browser. They’re used to leave notes for yourself or other developers.
+
+```<!-- This is a comment -->```
