@@ -67,6 +67,21 @@ The <p> tag defines a paragraph of text.
 
 ### STEP 13: br
 
-The <br> tag inserts a single line break — it’s useful for spacing text without starting a new paragraph.
+The <br> tag inserts a single line break it’s useful for spacing text without starting a new paragraph.
 
 ```Line one.<br>Line two.```
+
+### STEP 14: hr
+
+The <hr> tag adds a horizontal line, often used to separate content sections.
+
+``` <hr>```
+
+### STEP 15: pre
+
+The <pre> tag displays text exactly as it’s written in the code including spaces and line breaks. It’s useful for code samples or formatted text.
+
+``` <pre>
+This text
+    keeps its spacing.
+</pre>```
