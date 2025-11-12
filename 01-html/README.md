@@ -70,7 +70,7 @@ The tag contains everything visible on your webpage text, images, links, and mor
 
 ### STEP 11: headings
 
-Headings are used to organize and structure content. They range from <h1> (most important) to (least important).
+Headings are used to organize and structure content. They range from (most important) to (least important).
 
 ```
 <h1>Main Heading</h1>
